@@ -387,16 +387,16 @@
   ],
   "images": [
     {
-      "uri": "textures/CPB0004_Textures_baseColor.png"
+      "uri": "CPB0004_Textures_baseColor.png"
     },
     {
-      "uri": "textures/CPB0004_Textures_metallicRoughness.png"
+      "uri": "CPB0004_Textures_metallicRoughness.png"
     },
     {
-      "uri": "textures/CPB0004_Textures_normal.png"
+      "uri": "CPB0004_Textures_normal.png"
     },
     {
-      "uri": "textures/CPB0004_Glass_No_Caustics_metallicRoughness.png"
+      "uri": "CPB0004_Glass_No_Caustics_metallicRoughness.png"
     }
   ],
   "materials": [
