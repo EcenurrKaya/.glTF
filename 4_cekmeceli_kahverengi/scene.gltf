@@ -212,16 +212,16 @@
   ],
   "images": [
     {
-      "uri": "textures/Wood_baseColor.png"
+      "uri": "Wood_baseColor.png"
     },
     {
-      "uri": "textures/Wood_metallicRoughness.png"
+      "uri": "Wood_metallicRoughness.png"
     },
     {
-      "uri": "textures/Metal_baseColor.png"
+      "uri": "Metal_baseColor.png"
     },
     {
-      "uri": "textures/Metal_metallicRoughness.png"
+      "uri": "Metal_metallicRoughness.png"
     }
   ],
   "materials": [
