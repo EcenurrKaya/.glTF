@@ -1127,58 +1127,58 @@
   ],
   "images": [
     {
-      "uri": "textures/qita_baseColor.png"
+      "uri": "qita_baseColor.png"
     },
     {
-      "uri": "textures/qita_metallicRoughness.png"
+      "uri": "qita_metallicRoughness.png"
     },
     {
-      "uri": "textures/qita_normal.png"
+      "uri": "qita_normal.png"
     },
     {
-      "uri": "textures/lvzhi_baseColor.png"
+      "uri": "lvzhi_baseColor.png"
     },
     {
-      "uri": "textures/lvzhi_metallicRoughness.png"
+      "uri": "lvzhi_metallicRoughness.png"
     },
     {
-      "uri": "textures/lvzhi_normal.png"
+      "uri": "lvzhi_normal.png"
     },
     {
-      "uri": "textures/zhuoyi_baseColor.png"
+      "uri": "zhuoyi_baseColor.png"
     },
     {
-      "uri": "textures/zhuoyi_metallicRoughness.png"
+      "uri": "zhuoyi_metallicRoughness.png"
     },
     {
-      "uri": "textures/zhuoyi_normal.png"
+      "uri": "zhuoyi_normal.png"
     },
     {
-      "uri": "textures/material_baseColor.png"
+      "uri": "material_baseColor.png"
     },
     {
-      "uri": "textures/material_metallicRoughness.png"
+      "uri": "material_metallicRoughness.png"
     },
     {
-      "uri": "textures/material_normal.png"
+      "uri": "material_normal.png"
     },
     {
-      "uri": "textures/boli_baseColor.png"
+      "uri": "boli_baseColor.png"
     },
     {
-      "uri": "textures/boli_metallicRoughness.png"
+      "uri": "boli_metallicRoughness.png"
     },
     {
-      "uri": "textures/boli_normal.png"
+      "uri": "boli_normal.png"
     },
     {
-      "uri": "textures/niunai_baseColor.png"
+      "uri": "niunai_baseColor.png"
     },
     {
-      "uri": "textures/niunai_metallicRoughness.png"
+      "uri": "niunai_metallicRoughness.png"
     },
     {
-      "uri": "textures/niunai_normal.png"
+      "uri": "niunai_normal.png"
     }
   ],
   "materials": [
