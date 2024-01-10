@@ -2200,10 +2200,10 @@
   ],
   "images": [
     {
-      "uri": "textures/Canadian_Maple1_baseColor.jpeg"
+      "uri": "Canadian_Maple1_baseColor.jpeg"
     },
     {
-      "uri": "textures/Metal_Silver_baseColor.jpeg"
+      "uri": "Metal_Silver_baseColor.jpeg"
     }
   ],
   "materials": [
