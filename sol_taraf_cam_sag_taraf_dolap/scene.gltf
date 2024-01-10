@@ -1,0 +1,717 @@
+{
+  "accessors": [
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 3412,
+      "max": [
+        0.44999998807907104,
+        0.0,
+        0.996999979019165
+      ],
+      "min": [
+        -0.44999998807907104,
+        -0.3269999921321869,
+        0.0
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 40944,
+      "componentType": 5126,
+      "count": 3412,
+      "max": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "min": [
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5126,
+      "count": 3412,
+      "max": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "min": [
+        -1.0,
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 3412,
+      "max": [
+        0.9993202090263367,
+        0.9968947768211365
+      ],
+      "min": [
+        0.0006798114045523107,
+        0.0006798114045523107
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "componentType": 5125,
+      "count": 9621,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 81888,
+      "componentType": 5126,
+      "count": 240,
+      "max": [
+        -0.009232193231582642,
+        -0.02799999713897705,
+        0.6351999044418335
+      ],
+      "min": [
+        -0.4327680170536041,
+        -0.3037261366844177,
+        0.2989998459815979
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 84768,
+      "componentType": 5126,
+      "count": 240,
+      "max": [
+        0.9807866811752319,
+        0.9807860851287842,
+        1.0
+      ],
+      "min": [
+        -0.9807862043380737,
+        -0.9807860851287842,
+        -1.0
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 27296,
+      "componentType": 5126,
+      "count": 240,
+      "max": [
+        0.9505581259727478,
+        0.9310170412063599
+      ],
+      "min": [
+        0.6591978669166565,
+        0.4131925404071808
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 38484,
+      "componentType": 5125,
+      "count": 696,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 87648,
+      "componentType": 5126,
+      "count": 652,
+      "max": [
+        0.0,
+        0.016401376575231552,
+        0.4635045528411865
+      ],
+      "min": [
+        -0.45008450746536255,
+        -0.02506779506802559,
+        -0.4331210255622864
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 95472,
+      "componentType": 5126,
+      "count": 652,
+      "max": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "min": [
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "byteOffset": 54592,
+      "componentType": 5126,
+      "count": 652,
+      "max": [
+        1.0,
+        0.999995768070221,
+        1.0,
+        -1.0
+      ],
+      "min": [
+        -1.0,
+        -0.9905133247375488,
+        -1.0,
+        -1.0
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 29216,
+      "componentType": 5126,
+      "count": 652,
+      "max": [
+        0.9664262533187866,
+        0.9963065981864929
+      ],
+      "min": [
+        0.0006798114045523107,
+        0.0006798114045523107
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 41268,
+      "componentType": 5125,
+      "count": 2364,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 103296,
+      "componentType": 5126,
+      "count": 638,
+      "max": [
+        0.3308802843093872,
+        0.02360837161540985,
+        0.4483127295970917
+      ],
+      "min": [
+        -2.9802322387695313e-08,
+        -0.008067324757575989,
+        -0.44831278920173645
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 110952,
+      "componentType": 5126,
+      "count": 638,
+      "max": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "min": [
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "byteOffset": 65024,
+      "componentType": 5126,
+      "count": 638,
+      "max": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "min": [
+        -0.8556050062179565,
+        -1.0,
+        -1.0,
+        1.0
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 34432,
+      "componentType": 5126,
+      "count": 638,
+      "max": [
+        0.9418970346450806,
+        0.967388927936554
+      ],
+      "min": [
+        0.0006798114045523107,
+        0.08906885236501694
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 50724,
+      "componentType": 5125,
+      "count": 2340,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 118608,
+      "componentType": 5126,
+      "count": 120,
+      "max": [
+        0.4411700963973999,
+        0.02129995822906494,
+        0.44830992817878723
+      ],
+      "min": [
+        0.018755018711090088,
+        0.01599995791912079,
+        -0.44831031560897827
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 120048,
+      "componentType": 5126,
+      "count": 120,
+      "max": [
+        0.9807871580123901,
+        1.0,
+        0.9807822108268738
+      ],
+      "min": [
+        -0.9807893633842468,
+        -1.0,
+        -0.9807847142219543
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 39536,
+      "componentType": 5126,
+      "count": 120,
+      "max": [
+        0.6358724236488342,
+        0.29147279262542725
+      ],
+      "min": [
+        0.32993757724761963,
+        0.0006798114045523107
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 60084,
+      "componentType": 5125,
+      "count": 348,
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "extras": {
+      "author": "AleixoAlonso (https://sketchfab.com/AleixoAlonso)",
+      "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+      "source": "https://sketchfab.com/3d-models/wall-cupboard-bb972461ac8e48c9b94703a721f11b2b",
+      "title": "Wall Cupboard"
+    },
+    "generator": "Sketchfab-12.67.0",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 61476,
+      "name": "floatBufferViews",
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 40496,
+      "byteOffset": 61476,
+      "byteStride": 8,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 121488,
+      "byteOffset": 101972,
+      "byteStride": 12,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 75232,
+      "byteOffset": 223460,
+      "byteStride": 16,
+      "name": "floatBufferViews",
+      "target": 34962
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 298692,
+      "uri": "scene.bin"
+    }
+  ],
+  "extensionsUsed": [
+    "KHR_materials_transmission"
+  ],
+  "images": [
+    {
+      "uri": "textures/CPB0004_Textures_baseColor.png"
+    },
+    {
+      "uri": "textures/CPB0004_Textures_metallicRoughness.png"
+    },
+    {
+      "uri": "textures/CPB0004_Textures_normal.png"
+    },
+    {
+      "uri": "textures/CPB0004_Glass_No_Caustics_metallicRoughness.png"
+    }
+  ],
+  "materials": [
+    {
+      "doubleSided": true,
+      "name": "CPB0004_Textures",
+      "normalTexture": {
+        "index": 2
+      },
+      "occlusionTexture": {
+        "index": 1
+      },
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 0
+        },
+        "metallicRoughnessTexture": {
+          "index": 1
+        }
+      }
+    },
+    {
+      "alphaMode": "BLEND",
+      "doubleSided": true,
+      "extensions": {
+        "KHR_materials_transmission": {
+          "transmissionFactor": 0.9678890854811545
+        }
+      },
+      "name": "CPB0004_Glass_No_Caustics",
+      "occlusionTexture": {
+        "index": 3
+      },
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          1.0,
+          1.0,
+          1.0,
+          0.25
+        ],
+        "baseColorTexture": {
+          "index": 0
+        },
+        "metallicFactor": 0.0,
+        "metallicRoughnessTexture": {
+          "index": 3
+        }
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "#CPB0004_Wood_Gray_Wall_Glass_Door_#CPB0004_Textures_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 1,
+            "POSITION": 0,
+            "TANGENT": 2,
+            "TEXCOORD_0": 3
+          },
+          "indices": 4,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "#CPB0004_Wood_Gray_Wall_Glass_Door_#CPB0004_Glass_No_Caustics_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 6,
+            "POSITION": 5,
+            "TEXCOORD_0": 7
+          },
+          "indices": 8,
+          "material": 1,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "#CPB0004_Door_R_#CPB0004_Textures_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 10,
+            "POSITION": 9,
+            "TANGENT": 11,
+            "TEXCOORD_0": 12
+          },
+          "indices": 13,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "#CPB0004_Door_L_#CPB0004_Textures_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 15,
+            "POSITION": 14,
+            "TANGENT": 16,
+            "TEXCOORD_0": 17
+          },
+          "indices": 18,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "#CPB0004_Door_L_#CPB0004_Glass_No_Caustics_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 20,
+            "POSITION": 19,
+            "TEXCOORD_0": 21
+          },
+          "indices": 22,
+          "material": 1,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        2.220446049250313e-16,
+        -1.0,
+        0.0,
+        0.0,
+        1.0,
+        2.220446049250313e-16,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "Sketchfab_model"
+    },
+    {
+      "children": [
+        2
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        -1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "Wall_Cupboard.fbx"
+    },
+    {
+      "children": [
+        3
+      ],
+      "name": "RootNode"
+    },
+    {
+      "children": [
+        4,
+        5,
+        6,
+        8
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        -1.6292067939183141e-07,
+        -0.9999999999999868,
+        0.0,
+        0.0,
+        0.9999999999999868,
+        -1.6292067939183141e-07,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "#CPB0004_Wood_Gray_Wall_Glass_Door"
+    },
+    {
+      "mesh": 0,
+      "name": "#CPB0004_Wood_Gray_Wall_Glass_Door_#CPB0004_Textures_0"
+    },
+    {
+      "mesh": 1,
+      "name": "#CPB0004_Wood_Gray_Wall_Glass_Door_#CPB0004_Glass_No_Caustics_0"
+    },
+    {
+      "children": [
+        7
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        -2.646977960169688e-23,
+        0.0,
+        0.0,
+        2.646977960169688e-23,
+        1.0,
+        0.0,
+        0.44777894020080566,
+        -0.32448261976242065,
+        0.4503082036972046,
+        1.0
+      ],
+      "name": "#CPB0004_Door_R"
+    },
+    {
+      "mesh": 2,
+      "name": "#CPB0004_Door_R_#CPB0004_Textures_0"
+    },
+    {
+      "children": [
+        9,
+        10
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        -2.646977960169688e-23,
+        0.0,
+        0.0,
+        2.646977960169688e-23,
+        1.0,
+        0.0,
+        -0.44999992847442627,
+        -0.3259999752044678,
+        0.46549996733665466,
+        1.0
+      ],
+      "name": "#CPB0004_Door_L"
+    },
+    {
+      "mesh": 3,
+      "name": "#CPB0004_Door_L_#CPB0004_Textures_0"
+    },
+    {
+      "mesh": 4,
+      "name": "#CPB0004_Door_L_#CPB0004_Glass_No_Caustics_0"
+    }
+  ],
+  "samplers": [
+    {
+      "magFilter": 9729,
+      "minFilter": 9987,
+      "wrapS": 10497,
+      "wrapT": 10497
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Sketchfab_Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "textures": [
+    {
+      "sampler": 0,
+      "source": 0
+    },
+    {
+      "sampler": 0,
+      "source": 1
+    },
+    {
+      "sampler": 0,
+      "source": 2
+    },
+    {
+      "sampler": 0,
+      "source": 3
+    }
+  ]
+}

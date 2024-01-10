@@ -1,0 +1,11 @@
+Model Information:
+* title:	Cupboard 2300x1400x400
+* source:	https://sketchfab.com/3d-models/cupboard-2300x1400x400-3a7020814d7e48269bb6f870a6f6a2b9
+* author:	Has Been Office Furniture (https://sketchfab.com/hasbeen)
+
+Model License:
+* license type:	CC-BY-NC-ND-4.0 (http://creativecommons.org/licenses/by-nc-nd/4.0/)
+* requirements:	Author must be credited. No commercial use. Modified versions can not be distributed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Cupboard 2300x1400x400" (https://sketchfab.com/3d-models/cupboard-2300x1400x400-3a7020814d7e48269bb6f870a6f6a2b9) by Has Been Office Furniture (https://sketchfab.com/hasbeen) licensed under CC-BY-NC-ND-4.0 (http://creativecommons.org/licenses/by-nc-nd/4.0/)

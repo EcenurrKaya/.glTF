@@ -1,0 +1,11 @@
+Model Information:
+* title:	Couch
+* source:	https://sketchfab.com/3d-models/couch-62500f2d023c45069a70f09c64c87087
+* author:	aaa888 (https://sketchfab.com/aaa888)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Couch" (https://sketchfab.com/3d-models/couch-62500f2d023c45069a70f09c64c87087) by aaa888 (https://sketchfab.com/aaa888) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
